@@ -1,0 +1,11 @@
+# Ejecutables
+*.exe
+
+# Archivos objeto
+*.o
+
+# Archivos de depuración
+*.pdb
+
+# Archivos temporales
+*.tmp
